@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Имя Фамилия</title>
+    <title>Alex Nau</title>
 </svelte:head>
 <div class="container">
     <div class="info">
@@ -59,8 +59,7 @@
         margin-top: 0.50rem;
     }
     .background-div {
-        background-color:
-   #ecebe8;
+        background-color:#ecebe8;
         width: 100%;
         height: 56vh;
         margin: -205px auto;
